@@ -1,2 +1,2 @@
 #!/bin/sh
-make clean build && build/src/./Chelton
+make clean build && build/./Chelton
